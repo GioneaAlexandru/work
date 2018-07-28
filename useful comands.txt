@@ -4,7 +4,7 @@ git add .
 git commit -m "ceva"
 git pull/push origin master(branch)
 
-ce e mai sus trebuie repetat daca exista adaugare sau eliminare
+ce e mai sus trebuie repetat daca exista adaugare/eliminare/modificare
 de fisiere
 
 git rm -f -- "file" (delete)
