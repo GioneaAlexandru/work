@@ -3,4 +3,8 @@ git init
 git add .
 git commit -m "ceva"
 git pull/push origin master(branch)
+
+ce e mai sus trebuie repetat daca exista adaugare sau eliminare
+de fisiere
+
 git rm -f -- "file" (delete)
