@@ -1,0 +1,6 @@
+-start-
+git init
+git add .
+git commit -m "ceva"
+git pull/push origin master(branch)
+git rm -f -- "file" (delete)
